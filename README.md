@@ -2,9 +2,9 @@
 
 This is the Users listing project 
 
-<img src="public/screen1.jpg" />
+<img src="public/screen1.JPG" />
 
-<img src="public/screen2.jpg" />
+<img src="public/screen1.JPG" />
 
 ### Install Dependencies
 
