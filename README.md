@@ -4,7 +4,9 @@ This is the Users listing project
 
 <img src="public/screen1.JPG" />
 
-<img src="public/screen1.JPG" />
+Screenshot when User details modal is opened
+
+<img src="public/screen2.JPG" />
 
 ### Install Dependencies
 
